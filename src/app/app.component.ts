@@ -10,9 +10,9 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'fundamentos';
   //propiedades
-  nombre ='RICARDO ARTURO RAMIREZ CRUZ';
+  nombre ='Jocelyn';
   edad = 20;
-  email ='arturorc.ti22@utsjr.edu.mx';
+  email ='magalimb.ti22@utsjr.edu.mx';
   activo =false;
   alumnos = [25,24,26];
   numero = 2;
@@ -27,12 +27,12 @@ export class AppComponent {
     },
     {
       id: 2,
-      descripcion: 'juguito',
+      descripcion: 'arroz',
       precio: 28.8
     }, 
     {
       id: 3,
-      descripcion: 'Huevos',
+      descripcion: 'paletas',
       precio: 45.6
     }
   ]
