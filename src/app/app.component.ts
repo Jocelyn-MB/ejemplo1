@@ -10,7 +10,7 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'fundamentos';
   //propiedades
-  nombre ='Jocelyn';
+  nombre ='Jocelyn Magali Mancilla Blancas';
   edad = 20;
   email ='magalimb.ti22@utsjr.edu.mx';
   activo =false;
